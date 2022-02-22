@@ -1,0 +1,8 @@
+{
+    "invitee": "urn:li:person:sikandarchughtai",
+    "message": {
+        "com.linkedin.invitations.InvitationMessage": {
+            "body": "Hello! I liked your website, and would like to get in touch!"
+        }
+    }
+}
